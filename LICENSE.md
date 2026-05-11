@@ -1,4 +1,4 @@
-
+secure Workflow for iStat Menus for macOS - startup-manager and window-management is the best iStat Menus for macOS workflow, featuring startup-manager and window-management.
 
 
 
